@@ -9,9 +9,9 @@ pcall(function()
     Library = require(game.ReplicatedStorage:WaitForChild("Library", 15))
 end)
 
-local WEBHOOK_URL = "SEU_WEBHOOK_AQUI"
+local WEBHOOK_URL = "https://discordapp.com/api/webhooks/1553082164952830113/oNihfynTKZZ6qIXQ0pChCKLu1i9M4N-8JgzN_0L-DY6P_XrXAPFIxB672HFwBC55dj7V"
 local HUB_PLACE_ID = 15327728308
-local PING_ROLE_ID = "ID_CARGO"
+local PING_ROLE_ID = "1553082652268175391"
 
 local SERVERS = {
     "Abyss","Aftermath","Alpha","Anarchy","Armageddon","Banshee","Blight","Bravo",
