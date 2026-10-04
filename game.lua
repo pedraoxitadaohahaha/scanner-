@@ -20,7 +20,7 @@ local PAUSE_CONFIG = {
     m79           = false,  -- if m79 then pause
     backpacktier4 = false,   -- if backpacktier4 then pause
 
-    ChineseZombie  = 0,     -- min. Quantity to pause (0 = dont pause)
+    ChineseZombie  = 1,     -- min. Quantity to pause (0 = dont pause)
     TacticalZombie = 0,     -- min. Quantity to pause (0 = dont pause)
 }
 -- ================================
